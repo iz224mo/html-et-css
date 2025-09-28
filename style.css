@@ -1,0 +1,58 @@
+body {
+    margin: 0%;
+}
+
+.header {
+    background: gray;
+    padding: 2px;
+    height: auto;
+
+
+
+}
+
+.header img {
+    width: 630px;
+    height: auto;
+}
+
+.header-nav a {
+    padding: 0 8px;
+}
+
+.header-nav {
+    margin: 2px 0;
+}
+
+.header-title {
+    margin-top: 0px;
+}
+
+.main {
+    background: lightgray;
+    padding-top: 2px;
+}
+
+.footer {
+    background: blueviolet;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(21, 22, 23);
+
+}
+
+.header-nav {
+    background-color: beige;
+    height: 100px;
+    position: relative;
+}
+
+.link:hover {
+    font-size: 2rem;
+    font-weight: bolder;
+
+}
